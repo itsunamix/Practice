@@ -1,6 +1,0 @@
-table,tr,td{border: black 1px solid}
-table,tr,td{border-collapse: collapse}
-tr.colored:nth-child(odd){color: mediumvioletred}
-tr:nth-child(even){color: navy}
-td:hover{background-color: gold}
-td:hover{font-size: 20px}
