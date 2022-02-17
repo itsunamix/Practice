@@ -1,0 +1,9 @@
+tr,th,td,thead,caption{border: 3px solid black}
+table{border: 2px solid black}
+.col1{background-color: lightskyblue}
+.col2{background-color: lightcyan}
+.col3{background-color: lightseagreen}
+.col4{background-color: lightcoral}
+table{background-color: rebeccapurple}
+
+
